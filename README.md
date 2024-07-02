@@ -10,3 +10,4 @@ with personal notes explaining thought process and important details.
     - [Dynamic Programming](/leetcode/dynamic_programming/)
     - [Graph](/leetcode/graph/)
     - [Sliding Window](/leetcode/sliding_window/)
+    - [Data Structure Design](/leetcode/data_structure_design/)
