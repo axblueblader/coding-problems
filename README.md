@@ -11,3 +11,4 @@ with personal notes explaining thought process and important details.
     - [Graph](/leetcode/graph/)
     - [Sliding Window](/leetcode/sliding_window/)
     - [Data Structure Design](/leetcode/data_structure_design/)
+    - [Prefix Sum](/leetcode/prefix_sum/)
