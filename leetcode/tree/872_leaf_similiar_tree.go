@@ -2,7 +2,7 @@ package leetcode
 
 // https://leetcode.com/problems/leaf-similar-trees/
 
-func scoped() bool {
+func leetcode872() bool {
 	type TreeNode struct {
 		Left  *TreeNode
 		Right *TreeNode
